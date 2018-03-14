@@ -1,0 +1,14 @@
+#locale.setlocale(locale.LC_ALL, 'esp_esp')
+
+#nombre_archivo_web = 'preliminar_'+ nombre_archivo.strftime('%B') + nombre_archivo.strftime('%Y') + '_egef_fortuna.xls'
+# nombre_archivo_web = nombre_new.replace(" ","%20")
+
+    #ano, mes, dia = hoy_archivo.strftime("%Y"), hoy_archivo.strftime("%B").title(), hoy_archivo.strftime("%d")
+
+
+# dias_atras = dias atras + 1
+
+
+# hoy = date.today()
+
+# dia_en_archivo = dia_archivo.replace(" ", "_")
